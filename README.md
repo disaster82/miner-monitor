@@ -1,8 +1,12 @@
 # miner-monitor
+Miner, balance, wallet and pool monitoring software: nodejs miner-monitor stats bitcoin wallet storj mining miningpoolhub nicehash mpos ethereum erc20 burst cryptonote coinbase
+
+
+
 miner-monitor
 Prerequisites
 miner-monitor requires nodejs >= 8.9.0, npm and optionally pm2 to run.
-
+Miner, balance, wallet and pool monitoring software: 
 miners require the miner-manager to be installed
 
 Installation
